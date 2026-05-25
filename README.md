@@ -46,8 +46,7 @@ Beyond data, I love meeting new people and learning about different cultures. If
 
 ## 🌱 Currently Learning
 
-- 🧠 Advanced machine learning techniques (Scikit-learn)
-- ☁️ Cloud data warehousing with Google BigQuery
+
 - 📊 Advanced DAX for Power BI
 
 ---
