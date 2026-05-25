@@ -1,60 +1,106 @@
-## Hi there, I'm Sakee 👋👋
+## Hi there, I'm Sakee! 👋
 
-<!--
-**sakee-max/sakee-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/ithen-joe-9735212b8"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:ithenyayo@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <img src="https://komarev.com/ghpvc/?username=sakee-max&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
-## 🚀 About Me 
+<p align="center">
+  <a href="https://linkedin.com/in/ithen-joe-9735212b8">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:ithenyayo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-I'm passionate, I'm passionate about what I do. Every day, I wake up to jump into untamed datasets and reshape them into valuable insights that uncover stories inspiring people to make informed choices. Can you think of anything more rewarding? I love the "aha!" moment when data reveals something new and useful.
+---
 
-As a results-oriented data analyst, I draw on my background in Finance and my skills in Excel, Power BI, SQL, and statistical analysis honed through my studies in Economics. I find joy in working with data because it allows me to connect complex information with real-world actions. By harnessing my technical skills, analytical mindset, and clear communication, I help stakeholders at all levels grasp and act on the data effectively.
+## 🚀 About Me
 
-I also love meeting new people and learning about different cultures and viewpoints. So, if you want to chat about the latest trends in tech, finance, or the economy, or if you're as passionate about football as I am, don't hesitate to reach out!
+I'm a **results-oriented data analyst** passionate about transforming untamed datasets into valuable insights that inspire informed decisions. I love the "aha!" moment when data reveals something new and useful.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://sakee-max.github.io/)
+With a background in **Finance** and **Economics**, I combine analytical rigor with real-world business context. My toolkit includes:
+- 📊 Excel, Power BI, SQL
+- 📈 Statistical analysis
+- 🎯 Clear communication for stakeholders at all levels
 
-## 🔭 What I'm Currently Working On 
+Beyond data, I love meeting new people and learning about different cultures. If you want to chat about tech, finance, economics, or football — reach out!
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+<p align="center">
+  <a href="https://sakee-max.github.io/">
+    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-2c3e50?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
-## 🌱 Currently Learning 
+---
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+## 🔭 What I'm Currently Working On
+
+| Project | Description |
+|---------|-------------|
+| **Sales Forecasting Model** | Building predictive models using Python |
+| **Interactive Dashboard** | Creating a marketing dashboard in Power BI |
+| **Content Creation** | Developing data visualization tutorials |
+
+---
+
+## 🌱 Currently Learning
+
+- 🧠 Advanced machine learning techniques (Scikit-learn)
+- ☁️ Cloud data warehousing with Google BigQuery
+- 📊 Advanced DAX for Power BI
+
+---
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
-#### Data Analysis & Visualization
+### Data Analysis & Visualization
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_BI-Intermediate-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=for-the-badge&logo=tableau&logoColor=white">
 </p>
 
-#### Programming & Automation
+### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Intermediate-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/R-Intermediate-276DC3?style=for-the-badge&logo=r&logoColor=white">
 </p>
 
-#### Business Intelligence & Analytics
+### Analytics & Statistics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Beginner-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediate-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Beginner-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Intermediate-96
+  <img src="https://img.shields.io/badge/A%2FB_Testing-Beginner-FF6B6B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Statistical_Analysis-Intermediate-4ECDC4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Predictive_Modeling-Beginner-45B7D1?style=for-the-badge">
+  <img src="https://img.shields.io/badge/KPI_Development-Intermediate-96C0CE?style=for-the-badge">
+</p>
 
+---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakee-max&show_icons=true&theme=default" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakee-max&layout=compact" alt="Top Languages" width="48%">
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/ithen-joe-9735212b8">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:ithenyayo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/sakee-max">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
+
+⭐ *Open to collaborations and interesting conversations — feel free to reach out!*
