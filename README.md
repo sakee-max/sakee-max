@@ -56,10 +56,9 @@ Beyond data, I love meeting new people and learning about different cultures. If
 
 ### Data Analysis & Visualization
 <p>
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-Intermediate-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Power_BI-Intermediate-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=for-the-badge&logo=tableau&logoColor=white">
 </p>
 
 ### Programming & Automation
