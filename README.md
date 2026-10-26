@@ -1,7 +1,7 @@
 **Results-oriented data analyst** passionate about transforming untamed datasets into valuable insights that inspire informed decisions. I love the "aha!" moment when data reveals something new and useful.
 
 My toolkit includes:
-- 📊 Excel, Power BI, SQL
+- 📊 Excel, SQL, Power BI, Tableau
 - 📈 Statistical analysis
 - 🎯 Clear communication for stakeholders at all levels
 
