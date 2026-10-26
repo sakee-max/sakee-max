@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a **results-oriented data analyst** passionate about transforming untamed datasets into valuable insights that inspire informed decisions. I love the "aha!" moment when data reveals something new and useful.
+**Results-oriented data analyst** passionate about transforming untamed datasets into valuable insights that inspire informed decisions. I love the "aha!" moment when data reveals something new and useful.
 
 With a background in **Finance** and **Economics**, I combine analytical rigor with real-world business context. My toolkit includes:
 - 📊 Excel, Power BI, SQL
