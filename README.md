@@ -1,15 +1,15 @@
 **Results-oriented data analyst** passionate about transforming untamed datasets into valuable insights that inspire informed decisions. I love the "aha!" moment when data reveals something new and useful.
 
 My toolkit includes:
-- 📊 Excel, SQL, Power BI, Tableau
-- 📈 Statistical analysis
-- 🎯 Clear communication for stakeholders at all levels
+-  Excel, SQL, Power BI, Tableau
+-  Statistical analysis
+-  Clear communication for stakeholders at all levels
 
 Beyond data, I love meeting new people and learning about different cultures. If you want to chat about tech, finance, economics, or football — reach out!
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <p align="center">
   <a href="https://linkedin.com/in/ithen-joe-9735212b8">
@@ -25,4 +25,4 @@ Beyond data, I love meeting new people and learning about different cultures. If
 
 ---
 
-⭐ *Open to collaborations and interesting conversations — feel free to reach out!*
+ *Open to collaborations and interesting conversations — feel free to reach out!*
